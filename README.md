@@ -1,16 +1,19 @@
-## Hi there 👋
+### **Hi, I'm Juan Camilo Alfonso 👋**
 
-<!--
-**JuanCamiloCa/JuanCamiloCa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🧑‍💻 **About Me**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 📍 **Location:** <a href="https://www.google.com/maps/search/bogot%C3%A1/@4.6486259,-74.2478946,11z" target="_blank">Bogotá, Colombia</a> Co. 
+- 📘 **Studies:** I'm studying software engineering.
+- 🏁 **Another things:** SimRacing and Karting driver; apacionate for technology and videogames.
+
+---
+
+### Skills & Technologies
+
+---
+
+### Connect with Me
+
+- 📧 **Email:** [juan.kamilo.jac@gmail.com](mailto:juan.kamilo.jac@gmail.com)
